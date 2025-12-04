@@ -107,6 +107,14 @@ This project organizes and processes raw Formula 1 racing data into structured, 
   - Same approach as driver standings.
   - Incremental grain: `race_year`.
 
+---
+
+## 🧩 Solution Architecture
+
+![Solution Architecture](solution_architecture.png)
+
+---
+
 ## 🧭 Project Steps
 
 - Ingest data into ADLS Gen2 storage
